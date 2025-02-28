@@ -36,5 +36,6 @@ Este proyecto utiliza un Arduino junto con un sensor de temperatura y humedad DH
 3. Conecta los componentes según la tabla de conexiones.
 4. Sube el código al Arduino.
 5. Observa los valores en la pantalla LCD y utiliza los botones para cambiar la información mostrada.
+![v2](https://github.com/user-attachments/assets/92763261-2cb7-4d43-a3a1-6f4bf9495bb9)
 
 
